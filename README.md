@@ -1,5 +1,5 @@
 A simple and intuitive To-Do List application built using React.js, allowing users to add, edit, delete, and mark tasks as complete.
-Tech Stack: React.js, JavaScript, CSS
+Tech Stack: HTML, CSS, React.js, JavaScript
 Features:
 
 -Add, edit, and delete tasks
